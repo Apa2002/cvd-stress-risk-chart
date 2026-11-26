@@ -481,15 +481,14 @@ Run the MATLAB function from MATLAB after preparing the input matrix in the colu
 - External validation in an independent population is required before clinical interpretation.
 - The model must not be used as a diagnostic or treatment decision tool.
 
-## Data privacy and responsible sharing
+## Data Availability
 
-- Do not upload raw or participant-level datasets.
-- Do not upload direct identifiers, dates of birth, contact details, or potentially re-identifiable records.
-- Confirm that sharing any source-derived visualisation or aggregate output is permitted by the relevant data-use and licensing terms.
-- Retain source metadata for third-party figures, including the original URL, query settings, access date, and licence/terms where applicable.
-- Review every file before committing. `.gitignore` does not remove files that have already been committed.
-- Keep the repository private unless all code, figures, and documentation have been cleared for public sharing.
+- The individual-level dataset used in this study is not publicly available and is not included in this repository due to data privacy and access restrictions.
 
+- This repository provides the analytical code, statistical workflows, documentation, and selected research outputs to support transparency and methodological understanding.     No participant-level records or personally identifiable information are shared.
+
+- The availability of the underlying dataset is subject to the applicable data-access permissions and institutional requirements.
+- 
 ## References
 
 [1] World Health Organization (WHO), “Cardiovascular diseases.” Available: https://www.who.int/health-topics/cardiovascular-diseases
@@ -534,11 +533,10 @@ Run the MATLAB function from MATLAB after preparing the input matrix in the colu
 
 [21] SPSS Tutorials, “SPSS T-Test Tutorials.” Available: https://www.spss-tutorials.com/t-test/
 
-[22] The source bibliography supplied for this project lists a ChatGPT conversation URL for the Mann–Whitney test. This is not a stable scholarly or methodological reference and is therefore not used as an authoritative citation here. Replace it with the actual statistical reference or software documentation used for the test before formal publication.
 
-[23] H. Khamis, “Measures of association: how to choose?,” *Journal of Diagnostic Medical Sonography*, vol. 24, no. 3, pp. 155–162, 2008.
+[22] H. Khamis, “Measures of association: how to choose?,” *Journal of Diagnostic Medical Sonography*, vol. 24, no. 3, pp. 155–162, 2008.
 
-[24] B. Van Calster, D. Nieboer, Y. Vergouwe, B. De Cock, M. J. Pencina, and E. W. Steyerberg, “A calibration hierarchy for risk models was defined: from utopia to empirical data,” *Journal of Clinical Epidemiology*, vol. 74, pp. 167–176, 2016.
+[23] B. Van Calster, D. Nieboer, Y. Vergouwe, B. De Cock, M. J. Pencina, and E. W. Steyerberg, “A calibration hierarchy for risk models was defined: from utopia to empirical data,” *Journal of Clinical Epidemiology*, vol. 74, pp. 167–176, 2016.
 
 ---
 
